@@ -1,5 +1,7 @@
 # joken_po
 
+![JokenPo](https://user-images.githubusercontent.com/71278250/96195466-39a02280-0f23-11eb-9287-8bd0d3970881.gif)
+
 A new Flutter project.
 
 ## Getting Started
